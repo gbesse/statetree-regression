@@ -1,0 +1,9 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "StateTree Regression Recorder",
+  "Description": "Blueprint marker function for StateTree scenario regression logs",
+  "Category": "Testing",
+  "Modules": [{"Name": "StateTreeRegressionRecorder", "Type": "Runtime", "LoadingPhase": "Default"}]
+}

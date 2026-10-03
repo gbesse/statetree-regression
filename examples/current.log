@@ -1,0 +1,3 @@
+LogTemp: Display: STREG {"scenario":"guard-patrol","state":"Patrol","event":"Enter","outcome":"running"}
+LogTemp: Display: STREG {"scenario":"guard-patrol","state":"Patrol","event":"Exit","outcome":"failure"}
+LogTemp: Display: STREG {"scenario":"guard-patrol","state":"Chase","event":"Enter","outcome":"running"}

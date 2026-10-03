@@ -1,0 +1,16 @@
+[project]
+name = "statetree-regression"
+version = "0.1.0"
+description = "Compare StateTree scenario markers across Unreal game builds"
+requires-python = ">=3.10"
+license = "MIT"
+
+[project.scripts]
+statetree-regression = "statetree_regression:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["statetree_regression"]
